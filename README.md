@@ -42,7 +42,7 @@ jupyter lab
 Reletive local directories:
 `Full model/bert/best_bert_model_so_far/model_bert.pt` and `HuggingFace/roberta/best_roberta_model_so_far/model_roberta.pt` 
 
-- All four models (Hugging Face and Full-Model versions) are available on [Google Drive](https://drive.google.com/drive/folders/11zExabyd7AUcUnt3cu0gWzaLnKBkTGWw?usp=sharing)
+- All four fine-tuned models (Hugging Face and Full-Model versions) are available on [Google Drive](https://drive.google.com/drive/folders/11zExabyd7AUcUnt3cu0gWzaLnKBkTGWw?usp=sharing)
 
 3. Ensure the data files `OOT_train.csv`, `OOT_val.csv`, and `OOT_test.csv` remain at the repository root (or update paths in the notebooks accordingly). Then run cells top to bottom.
 
