@@ -1,6 +1,6 @@
 ## Deep Learning Sentiment Analysis with Model Compression
 
-This repository implements end-to-end sentiment analysis using BERT and RoBERTa. It includes EDA, Hugging Face training with hyperparameter tuning, and three compression techniques—distillation, pruning, and quantization—to reduce model size and latency while preserving accuracy. Out-of-time (OOT) splits are provided for robust evaluation, and final distilled artifacts are saved for reuse in the compression notebooks.
+This repository implements end-to-end sentiment analysis using BERT and RoBERTa. It includes EDA, Hugging Face training with hyperparameter tuning, and three compression techniques—distillation, pruning, and quantization — to reduce model size and latency while preserving accuracy. Out-of-time (OOT) splits are provided for robust evaluation, and final distilled artifacts are saved for reuse in the compression notebooks.
 
 ### Notebooks
 - `EDA.ipynb`
