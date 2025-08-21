@@ -35,9 +35,9 @@ jupyter lab
 
 3. Download from Google Drive and place locally:
 - **BERTweet** —
-  - Drive folder: `https://drive.google.com/file/d/1c7o_7WMiVinzrz6DZa9bf80wYW6kG-Iq/view?usp=drive_link/model_bert.pt`>`
+  - Drive folder: `https://drive.google.com/file/d/1c7o_7WMiVinzrz6DZa9bf80wYW6kG-Iq/view?usp=drive_link/model_bert.pt`
 - **RoBERTa** — 
-  - Drive folder: `https://drive.google.com/file/d/15lya5qEoZQ2GoxW5wrWw0yMCVTxTtqyy/view?usp=drive_link/model_roberta.pt>`
+  - Drive folder: `https://drive.google.com/file/d/15lya5qEoZQ2GoxW5wrWw0yMCVTxTtqyy/view?usp=drive_link/model_roberta.pt`
 
 Reletive local directories:
 `Full model/bert/best_bert_model_so_far/model_bert.pt` and `HuggingFace/roberta/best_roberta_model_so_far/model_roberta.pt` 
