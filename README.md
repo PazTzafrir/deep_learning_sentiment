@@ -35,13 +35,14 @@ jupyter lab
 
 3. Download from Google Drive and place locally:
 - **BERTweet** —
-  - Drive folder: `<DRIVE_URL/model_bert.pt`>`
+  - Drive folder: `https://drive.google.com/file/d/1c7o_7WMiVinzrz6DZa9bf80wYW6kG-Iq/view?usp=drive_link/model_bert.pt`>`
 - **RoBERTa** — 
-  - Drive folder: `<DRIVE_URL/model_roberta.pt>`
+  - Drive folder: `https://drive.google.com/file/d/15lya5qEoZQ2GoxW5wrWw0yMCVTxTtqyy/view?usp=drive_link/model_roberta.pt>`
 
 Reletive local directories:
 `Full model/bert/best_bert_model_so_far/model_bert.pt` and `HuggingFace/roberta/best_roberta_model_so_far/model_roberta.pt` 
 
+- All four models (Hugging Face and Full-Model versions) are available on [Google Drive](https://drive.google.com/drive/folders/11zExabyd7AUcUnt3cu0gWzaLnKBkTGWw?usp=sharing)
 
 3. Ensure the data files `OOT_train.csv`, `OOT_val.csv`, and `OOT_test.csv` remain at the repository root (or update paths in the notebooks accordingly). Then run cells top to bottom.
 
